@@ -1,0 +1,33 @@
+,attention_window,model_type,quantifier_type,frontedness,connectives,preceding_proportion,reverse_proportaion
+0,FullofConcerns,dependency,every,front,and,0.63,0.37
+1,FullofConcerns,dependency,every,front,or,0.64,0.36
+2,FullofConcerns,dependency,less than 5,front,and,0.74,0.26
+3,FullofConcerns,dependency,less than 5,front,or,0.75,0.25
+4,FullofConcerns,dependency,more than 5,front,and,0.73,0.27
+5,FullofConcerns,dependency,more than 5,front,or,0.73,0.27
+6,FullofConcerns,dependency,every,back,and,0.3,0.7
+7,FullofConcerns,dependency,less than 5,back,and,0.2,0.8
+8,FullofConcerns,dependency,more than 5,back,and,0.23,0.77
+9,FullofConcerns,dependency,no,back,and,0.32,0.68
+10,FullofConcerns,dependency,every,back,or,0.3,0.7
+11,FullofConcerns,dependency,less than 5,back,or,0.2,0.8
+12,FullofConcerns,dependency,more than 5,back,or,0.23,0.77
+13,FullofConcerns,dependency,no,back,or,0.32,0.68
+14,FullofConcerns,dependency,no,front,and,0.63,0.37
+15,FullofConcerns,dependency,no,front,or,0.63,0.37
+16,FullofConcerns,normal,every,front,and,0.63,0.37
+17,FullofConcerns,normal,every,front,or,0.64,0.36
+18,FullofConcerns,normal,less than 5,front,and,0.74,0.26
+19,FullofConcerns,normal,less than 5,front,or,0.75,0.25
+20,FullofConcerns,normal,more than 5,front,and,0.73,0.27
+21,FullofConcerns,normal,more than 5,front,or,0.73,0.27
+22,FullofConcerns,normal,every,back,and,0.3,0.7
+23,FullofConcerns,normal,less than 5,back,and,0.2,0.8
+24,FullofConcerns,normal,more than 5,back,and,0.23,0.77
+25,FullofConcerns,normal,no,back,and,0.32,0.68
+26,FullofConcerns,normal,every,back,or,0.3,0.7
+27,FullofConcerns,normal,less than 5,back,or,0.2,0.8
+28,FullofConcerns,normal,more than 5,back,or,0.23,0.77
+29,FullofConcerns,normal,no,back,or,0.32,0.68
+30,FullofConcerns,normal,no,front,and,0.63,0.37
+31,FullofConcerns,normal,no,front,or,0.63,0.37
